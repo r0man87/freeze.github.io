@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	margin: 0;
+}
+
+.nav-item {
+	margin-top:20px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+}
+
+.img-head {
+	border-radius: 5px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
